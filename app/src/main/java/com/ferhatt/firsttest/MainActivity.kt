@@ -14,6 +14,5 @@ class MainActivity : AppCompatActivity() {
 
         println(netIncome)
         println(netTax)
-        // TAMAMLANDI.
     }
 }
